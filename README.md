@@ -26,6 +26,10 @@
 
 ###
 
+<h3 align="left">SNAKE!</h3>
+
+###
+
 <img src="https://raw.githubusercontent.com/MoniHRO/MoniHRO/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -44,10 +48,10 @@
 <p align="left">✉️ Email: monik.kaiser.dev@protonmail.com</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/monik-kaiser-%F0%9F%9A%B4%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F-654503303" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"/>
   </a>
   <a href="moni093525" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="32" alt="discord logo"/>
   </a>
 </div>
 
