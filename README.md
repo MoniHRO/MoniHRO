@@ -46,6 +46,8 @@
 
 ###
 <p align="left">✉️ Email: monik.kaiser.dev@protonmail.com</p>
+
+<h5 align="left">Find me on social media</h5>
 <div align="left">
   <a href="https://www.linkedin.com/in/monik-kaiser-%F0%9F%9A%B4%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F-654503303" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"/>
